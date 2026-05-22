@@ -127,3 +127,5 @@ R code for re-running MANOVA, ANOVA, and PGLS analyses across stingray species w
 ### 4. Puncture_Removal.R
 
 R code analyzing dynamic and quasi-static performance of physical models in puncture and removal tests. Includes ANOVA, Tukey HSD post-hoc tests, and figure generation.
+
+## Data associated with this repository are released under CC0
